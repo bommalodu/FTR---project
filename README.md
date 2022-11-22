@@ -1,20 +1,17 @@
 # FRT-Project
 This repository hosts the final project of Future Ready Talent Internship, this project was created and hosted using microsoft azure [Azure QnA Maker, Azure Web Bot, and Azure Static Web App]. The project is an online lifestyle website featuring a Chat Bot.
 
-### About Atelier
-Atelier is a website that helps hairdressers and salons promote their businesses online and take appointments from clients using chatbot (AtelierBot)
 
-project link : 
-https://rayapativenkatahareesha.github.io/Look_greate-website/
+project link : https://bommalodu.github.io/FTR-project/
 
 Demo link : 
 https://youtube.com/channel/UCFJoZl0K43LivAOebnpIa_g
 
 
 ### Core Azure Services Used
-  - [Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/#overview)
-  - [QnA Maker](https://www.qnamaker.ai/)
-  - [Web App Bot](https://azure.microsoft.com/en-us/services/bot-services/#get-started)
+  - [Static Web Apps]
+  - [QnA Maker]
+  - [Web App Bot]
 
 [Link of Static Webpage](https://victorious-coast-01eb17110.1.azurestaticapps.net/)
 
